@@ -2,7 +2,7 @@
 
 Extension allows to run Open Source Marketing Automation via Mautic in Magento 2
 
-## Other Magento 2 Extensions by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Login As Customer Extension](https://magefan.com/login-as-customer-magento-2-extension)
