@@ -20,5 +20,7 @@ Extension allows to run Open Source Marketing Automation via Mautic in Magento 2
   * [Magento Twitter Cards Extension](https://magefan.com/magento-2-twitter-cards-extension)
   * [Magento 2 Alternate Hreflang Extension](https://magefan.com/magento2-alternate-hreflang-extension)
   * [Magento 2 Dynamic Categories](https://magefan.com/magento-2-dynamic-categories)
+  * [Magento 2 CMS Display Rules Extension](https://magefan.com/magento-2-cms-display-rules-extension)
+  * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
 
 
