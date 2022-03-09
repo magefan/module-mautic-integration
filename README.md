@@ -1,4 +1,6 @@
 # [Magento 2 Mautic Extension](https://magefan.com/magento-2-mautic-integration-extension) by Magefan
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 
 Extension allows to run Open Source Marketing Automation via Mautic in Magento 2
 
