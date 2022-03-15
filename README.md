@@ -21,7 +21,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://mautic.demo.magefan.top/">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
-            alt="Magneto 2 Blog Extension Storefront Demo"
+            alt="Magento 2 Mautic Extension Storefront Demo"
             height="220"
           >
         </a>
@@ -30,7 +30,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://mautic.demo.magefan.top/admin/admin/system_config/">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
-            alt="Magneto 2 Blog Extension Admin Panel Demo"
+            alt="Magento 2 Mautic Extension Admin Panel Demo"
             height="220"
           >
         </a>
